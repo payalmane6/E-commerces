@@ -1,2 +1,2 @@
-# E-commerces
-I will make the e-commerce website using react js or online store using react js. i will create the home page where we will display the trending products, offer banner, newsletter subscription from, then i will make product page for men's category, women category and kids category.
+#E-Commerce
+A responsive and interactive online shopping platform built using HTML, CSS, and JavaScript. Features include dynamic product listings, shopping cart functionality, smooth UI/UX design, and mobile-first responsiveness. Perfect for showcasing front-end development skills and real-world e-commerce experience.
